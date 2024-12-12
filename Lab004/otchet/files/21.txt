@@ -1,0 +1,14 @@
+/home/nikita_po/.ICEauthority
+/home/nikita_po/.mozilla/extensions
+/home/nikita_po/.config/goa-1.0
+/home/nikita_po/.config/xviewer
+/home/nikita_po/Public
+/home/nikita_po/Music
+/home/nikita_po/Videos
+/home/nikita_po/otchet/otchet.md
+/home/nikita_po/Templates
+/home/nikita_po/.vscode/cli
+/home/nikita_po/.cache/obexd
+/home/nikita_po/.sudo_as_admin_successful
+/home/nikita_po/.gnupg/private-keys-v1.d
+/home/nikita_po/Desktop

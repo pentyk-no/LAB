@@ -1,0 +1,7 @@
+total 28
+drwxrwxr-x 2 nikita_po nikita_po  4096 Dec  5 17:06 .
+drwxrwxr-x 3 nikita_po nikita_po  4096 Dec  5 17:02 ..
+-rw-rw-r-- 1 nikita_po nikita_po    39 Dec  5 16:57 2.txt
+-rw-rw-r-- 1 nikita_po nikita_po     0 Dec  5 17:07 3.txt
+-rw-rw-r-- 1 nikita_po nikita_po     0 Dec  5 17:06 4.txt
+-rw-rw-r-- 1 nikita_po nikita_po 16237 Dec  5 16:52 Screenshot_2024-12-05_16-52-03.png
